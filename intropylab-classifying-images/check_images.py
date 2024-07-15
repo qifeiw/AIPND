@@ -3,8 +3,8 @@
 # */AIPND/intropylab-classifying-images/check_images.py
 #                                                                             
 # TODO: 0. Fill in your information in the programming header below
-# PROGRAMMER:
-# DATE CREATED:
+# PROGRAMMER: QIFEI WANG
+# DATE CREATED: 7/14/2024
 # REVISED DATE:             <=(Date Revised - if any)
 # REVISED DATE: 05/14/2018 - added import statement that imports the print 
 #                           functions that can be used to check the lab
